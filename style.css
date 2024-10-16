@@ -18,14 +18,14 @@ body {
 .gradBody {
     background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
     position: relative;
-    top: 350px;
+    top: 450px;
     height: 15px;
 }
 
 .nogradBody {
     background: black;
     position: relative;
-    top: 350px;
+    top: 450px;
     padding: 10px;
 }
 
