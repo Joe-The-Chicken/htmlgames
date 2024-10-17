@@ -61,5 +61,7 @@ h2 {
 
 a {
     color: rgb(100, 0, 200);
-    font-size: large;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: bold;
 }
