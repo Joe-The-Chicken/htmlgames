@@ -1,7 +1,7 @@
 # htmlgames
 An unblocked games html/css/js repository.
 
-Play here: [Link](joe-the-chicken.github.io/htmlgames)
+Play here: [Link](https://www.joe-the-chicken.github.io/htmlgames)
 
 # how to download
 If you can't play this directly in your browser, this is how you can play it:
