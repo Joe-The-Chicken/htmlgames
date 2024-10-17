@@ -54,3 +54,7 @@ body {
     border-radius: 10px;
   	border: none;
 }
+
+h2 {
+    color: rgb(100, 0, 200);
+}
