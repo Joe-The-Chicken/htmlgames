@@ -39,7 +39,7 @@ body {
 .container {
     position: relative;
     overflow: hidden;
-    width: 90%;
+    width: 100%;
     padding-top: 60%;
 }
 
